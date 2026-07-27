@@ -1,0 +1,16 @@
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.sql
+*.sqlite
+*.log
+private/
+client-data/
+analytics-exports/
+session-recordings/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
